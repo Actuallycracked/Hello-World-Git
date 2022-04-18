@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Hello World GIt", "Hello World GIt.vcxproj", "{DDBE4BB9-D6D7-41F7-B910-3D302DC7A7FA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DDBE4BB9-D6D7-41F7-B910-3D302DC7A7FA}.Debug|x64.ActiveCfg = Debug|x64
+		{DDBE4BB9-D6D7-41F7-B910-3D302DC7A7FA}.Debug|x64.Build.0 = Debug|x64
+		{DDBE4BB9-D6D7-41F7-B910-3D302DC7A7FA}.Debug|x86.ActiveCfg = Debug|Win32
+		{DDBE4BB9-D6D7-41F7-B910-3D302DC7A7FA}.Debug|x86.Build.0 = Debug|Win32
+		{DDBE4BB9-D6D7-41F7-B910-3D302DC7A7FA}.Release|x64.ActiveCfg = Release|x64
+		{DDBE4BB9-D6D7-41F7-B910-3D302DC7A7FA}.Release|x64.Build.0 = Release|x64
+		{DDBE4BB9-D6D7-41F7-B910-3D302DC7A7FA}.Release|x86.ActiveCfg = Release|Win32
+		{DDBE4BB9-D6D7-41F7-B910-3D302DC7A7FA}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {94BA90D9-B9DD-4737-939F-E954B932D419}
+	EndGlobalSection
+EndGlobal
